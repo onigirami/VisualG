@@ -8,10 +8,10 @@ O VisualG é uma ferramenta educacional fundamental para aprender **lógica de p
 
 ## 📚 Conteúdo
 
-- **Cronograma de Aulas**: Estrutura organizada por semanas/tópicos
+- **Cronograma de Aulas**: Aulas ministradas duas vezes por semana
 - **Exercícios Práticos**: Atividades para consolidar o aprendizado
 - **Soluções**: Resoluções comentadas dos exercícios
-- **Materiais de Apoio**: Recursos adicionais para estudo
+- **Materiais de Apoio**: Slides das aulas com exercicios
 
 ## 🎯 Objetivos
 
@@ -43,14 +43,8 @@ O VisualG é uma ferramenta educacional fundamental para aprender **lógica de p
 - Entenda a lógica, não apenas memorize
 - Reutilize conceitos em novos problemas
 
-## 📝 Licença
-
-[Especifique a licença do seu projeto]
-
 ## 🤝 Contribuições
 
 Dúvidas ou sugestões? Abra uma issue ou entre em contato!
 
 ---
-
-**Bons estudos! 💻📚**
